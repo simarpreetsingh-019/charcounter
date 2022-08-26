@@ -59,6 +59,7 @@ body{
 .total-counter:hover{
   font-size: 22px;
   color: brown;
+  transition-duration: 1.3s;
 }
 
 
